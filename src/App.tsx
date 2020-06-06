@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <Header name="REACT" />
       </header>
-        <Description countBy={3} />
+        <Description countBy={1} />
     </div>
   );
 }
